@@ -35,8 +35,8 @@ The BRD acts as a **roadmap for the project**, helping everyone understand:
 > **What does the business want to achieve?**
 
 It provides the foundation from which more detailed system requirements can be derived.
-
-### 📝 Typical BRD Structure
+---
+## 📝 Typical BRD Structure
 
 ```
 Business Requirement Document
@@ -95,8 +95,8 @@ The FRD acts as a **blueprint for the development team**, helping them understan
 > **What needs to be built, and how should it function?**
 
 It provides enough detail for developers to implement the required functionality and for QA engineers to design appropriate test scenarios and test cases.
-
-### 📝 Typical FRD Structure
+---
+## 📝 Typical FRD Structure
 
 ```
 Functional Requirement Document
