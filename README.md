@@ -112,12 +112,12 @@ The relationship between the two documents can be represented as:
                 │
                 ▼
 ┌───────────────────────────────┐
-│       Design & Development     │
+│       Design & Development    │
 └───────────────┬───────────────┘
                 │
                 ▼
 ┌───────────────────────────────┐
-│          QA & Testing          │
+│          QA & Testing         │
 └───────────────────────────────┘
 ```
 
