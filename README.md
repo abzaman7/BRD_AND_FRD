@@ -154,22 +154,22 @@ A simplified requirements flow looks like this:
 Business Requirement
         │
         ▼
-      BRD
+       BRD
         │
         ▼
 Functional Requirements
         │
         ▼
-      FRD
+       FRD
         │
         ▼
 System Design & Development
         │
         ▼
-      QA Testing
+   QA Testing
         │
         ▼
-     Final Product
+  Final Product
 ```
 
 This traceability helps ensure that the final software product remains aligned with the original **business objectives**.
