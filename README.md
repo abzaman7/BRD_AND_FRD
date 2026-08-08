@@ -28,7 +28,7 @@ The BRD typically defines:
 
 The document is generally prepared by **Business Analysts or Project Managers** in collaboration with stakeholders.
 
-### 🗺️ BRD as a Project Roadmap
+## 🗺️ BRD as a Project Roadmap
 
 The BRD acts as a **roadmap for the project**, helping everyone understand:
 
