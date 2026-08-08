@@ -36,6 +36,34 @@ The BRD acts as a **roadmap for the project**, helping everyone understand:
 
 It provides the foundation from which more detailed system requirements can be derived.
 
+### 📝 Typical BRD Structure
+
+```
+Business Requirement Document
+│
+├── 1. Introduction
+│   ├── Purpose
+│   ├── Background
+│   └── Document Objectives
+│
+├── 2. Business Objectives
+│
+├── 3. Project Scope
+│   ├── In Scope
+│   └── Out of Scope
+│
+├── 4. Stakeholders
+│
+├── 5. Business Requirements
+│
+├── 6. Business Rules
+│
+├── 7. Assumptions & Constraints
+│
+├── 8. Risks
+│
+└── 9. Approval & Sign-off
+```
 ---
 
 ## ⚙️ What is FRD?
@@ -68,6 +96,35 @@ The FRD acts as a **blueprint for the development team**, helping them understan
 
 It provides enough detail for developers to implement the required functionality and for QA engineers to design appropriate test scenarios and test cases.
 
+### 📝 Typical FRD Structure
+
+```
+Functional Requirement Document
+│
+├── 1. Introduction
+│
+├── 2. Reference to BRD
+│
+├── 3. System Overview
+│
+├── 4. Functional Requirements
+│   ├── User Registration
+│   ├── Login
+│   ├── Password Reset
+│   └── User Management
+│
+├── 5. Business Rules
+│
+├── 6. Input & Output Requirements
+│
+├── 7. Validation Rules
+│
+├── 8. Error Handling
+│
+├── 9. System Workflows
+│
+└── 10. Approval & Sign-off
+```
 ---
 
 ## 🔍 BRD vs FRD
