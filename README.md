@@ -184,6 +184,7 @@ User Acceptance Testing
       │
       ▼
 Production
+```
 
 ## 🔗 How BRD and FRD Are Connected
 
