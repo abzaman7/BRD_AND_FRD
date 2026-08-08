@@ -144,6 +144,47 @@ Functional Requirement Document
 
 ---
 
+### 🔄 How BRD and FRD Are Created
+
+Creating BRD and FRD documents is usually a collaborative process involving stakeholders, Business Analysts, Product Owners, Developers, and QA Engineers.
+
+A typical workflow looks like this:
+
+```
+Business Need
+      │
+      ▼
+Requirement Gathering
+      │
+      ▼
+Stakeholder Discussions
+      │
+      ▼
+      ├───────────────┐
+      ▼               ▼
+     BRD             Scope
+      │
+      ▼
+Business Requirements
+      │
+      ▼
+Functional Analysis
+      │
+      ▼
+     FRD
+      │
+      ▼
+Development
+      │
+      ▼
+Testing / QA
+      │
+      ▼
+User Acceptance Testing
+      │
+      ▼
+Production
+
 ## 🔗 How BRD and FRD Are Connected
 
 The relationship between the two documents can be represented as:
